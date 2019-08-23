@@ -1,4 +1,8 @@
 /* top of the page*/
+body
+{
+    font-family: "segoe ui light";
+}
 nav
 {
     background-color: rgba(0,0,0,0.5);
@@ -178,3 +182,15 @@ footer h4
 
 
 
+.newEdit
+{
+    height: 50px;
+    background-color: #09c;
+    color: wheat;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.newEdit h4
+{
+    font-size: 24px;
+}
