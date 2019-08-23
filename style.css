@@ -194,3 +194,36 @@ footer h4
 {
     font-size: 24px;
 }
+
+#about .me h2
+{
+    font-weight: 700;
+    font-size: 40px;
+}
+#about .me img
+{
+display: inline-block;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
+#about .me h3
+{
+        font-weight: 700;
+    text-transform: uppercase;
+}
+#about .me .icon
+{
+    font-size: 40px;
+    border: solid 1px black;
+    margin: 0PX 10px;
+}
+#about .me .icons .icon:hover
+{
+    cursor: pointer;
+    background-color: tomato;
+}
+#about .my h5
+{
+    font-size: 15px;
+}
